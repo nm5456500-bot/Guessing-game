@@ -1,1 +1,1 @@
-# calculator
+# Guessing game
